@@ -50,18 +50,6 @@ The platform provides dedicated interfaces for employees, supervisors, and HR, a
 
 ---
 
-## Architecture
-
-> *(Architecture diagram coming soon.)*
-
----
-
-## Screenshots
-
-> *(Demo screenshots coming soon.)*
-
----
-
 ## Roadmap
 
 - [x] Authentication
