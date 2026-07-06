@@ -71,5 +71,3 @@ The platform provides dedicated interfaces for employees, supervisors, and HR, a
 - [x] Workflow Automation
 - [x] Email Notifications
 - [x] Mobile Responsiveness
-- [ ] HR Dashboard
-- [ ] Performance Analytics
