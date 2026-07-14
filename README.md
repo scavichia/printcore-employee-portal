@@ -16,7 +16,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 PrintCore is an employee management platform designed to centralize internal workflows, reduce paperwork, and automate administrative processes.
 
