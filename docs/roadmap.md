@@ -1,6 +1,6 @@
 # Roadmap
 
-## ✅ Completed
+## Completed
 
 - Authentication
 - Employee Dashboard
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚧 In Progress
+## In Progress
 
 - Company-wide Attendance Module
 - Internal Announcements Panel
@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Planned
+## Planned
 
 - Department Chat
 - Career Progression Module
